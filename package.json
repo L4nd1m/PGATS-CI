@@ -12,7 +12,7 @@
   "keywords": [],
   "author": "Arthur L",
   "license": "ISC",
-  "description": "trabalho da disciplina de automacao web pgats",
+  "description": "trabalho da disciplina de CI com o projeto de automacao web pgats",
   "devDependencies": {
     "cypress": "^13.7.3",
     "cypress-mochawesome-reporter": "^3.8.2"
