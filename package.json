@@ -1,0 +1,23 @@
+{
+  "name": "automacao-web-pgats",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint" : "cypress run --env CI=true",
+    "lint:ts": "tsc -b jsconfig.json",
+    "start": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "e2e": "yarn cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "trabalho da disciplina de automacao web pgats",
+  "devDependencies": {
+    "cypress": "^13.7.3",
+    "cypress-mochawesome-reporter": "^3.8.2"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+}
