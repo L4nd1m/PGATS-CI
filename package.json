@@ -10,7 +10,7 @@
     "e2e": "yarn cypress run"
   },
   "keywords": [],
-  "author": "",
+  "author": "Arthur L",
   "license": "ISC",
   "description": "trabalho da disciplina de automacao web pgats",
   "devDependencies": {
